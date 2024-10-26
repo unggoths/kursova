@@ -1,8 +1,9 @@
-
 import telebot
 from telebot import types
 import os
+
 import properties
+import handlers
 
 TOKEN = "8104879861:AAEu8DGjBeocnwQ4xkyp48GOoC0kZshwf30"
 bot = telebot.TeleBot(TOKEN)
@@ -141,4 +142,4 @@ def get_keyboard(step):
 
 
 if __name__ == '__main__':
-    bot.polling(none_stop=True)
+    handlers.bot.polling(none_stop=True)
