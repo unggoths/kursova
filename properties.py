@@ -8,7 +8,7 @@ properties = [
         "rooms": 1,
         "area": 60,
         "budget": 1100,
-        "description": "Квартира дуже чудова",
+        "description": "Квартира в новобудові із виглядом на парк. Нові меблі та електроніка. Можна з тваринами!",
         "phone_number": "+380 97 456 12 34",
         "photos": [r"D:\\labs\\labs_2_kurs\\kurs\\photos\\photo_2024-09-30_09-54-52.jpg",
                    r"D:\\labs\\labs_2_kurs\\kurs\\photos\\photo_2024-10-03_22-07-56.jpg"]
