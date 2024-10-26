@@ -9,3 +9,13 @@
   "photos": ["D:\\labs\\labs_2_kurs\\kurs\\photos\\photo_2024-09-30_09-54-52.jpg", "D:\\labs\\labs_2_kurs\\kurs\\photos\\photo_2024-10-03_22-07-56.jpg"]
 }
 
+{
+   "id": 124,
+   "district": "Галицький район 🏰",
+   "rooms": 1,
+   "area": 55,
+   "budget": 800,
+   "description": "Непога квартира",
+   "phone_number": "+380 97 456 12 34",
+   "photos": ["D:\\labs\\labs_2_kurs\\kurs\\photos\\photo_2024-10-02_16-46-48.jpg", "D:\\labs\\labs_2_kurs\\kurs\\photos\\photo_2024-10-02_16-46-48 (2).jpg", "D:\\labs\\labs_2_kurs\\kurs\\photos\\photo_2024-10-02_16-46-48 (3).jpg"]
+    }
