@@ -21,7 +21,9 @@ properties = [
         "budget": 800,
         "phone_number": "+380 97 456 12 34",
         "description": "Непога квартира",
-        "photos": [r"D:\labs\labs_2_kurs\kurs\photos\photo_2024-10-03_22-07-56.jpg"]
+        "photos": [r"D:\labs\labs_2_kurs\kurs\photos\photo_2024-10-02_16-46-48.jpg",
+                   r"D:\labs\labs_2_kurs\kurs\photos\photo_2024-10-02_16-46-48 (2).jpg",
+                   r"D:\labs\labs_2_kurs\kurs\photos\photo_2024-10-02_16-46-48 (3).jpg"]
     },
 ]
 
