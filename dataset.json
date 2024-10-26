@@ -1,0 +1,9 @@
+{
+  "id": 123,
+  "district": "Сихівський район \uD83C\uDF33",
+  "rooms": 1,
+  "area": 60,
+  "budget": 1100,
+  "description": "Затишна квартира з видом на парк...",
+  "photos": ["D:\\labs\\labs_2_kurs\\kurs\\photos\\photo_2024-09-30_09-54-52.jpg", "D:\\labs\\labs_2_kurs\\kurs\\photos\\photo_2024-10-03_22-07-56.jpg"]
+}
